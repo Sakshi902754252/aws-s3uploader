@@ -1,0 +1,30 @@
+{
+  "name": "aws-s3uploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sakshi902754252/aws-s3uploader.git"
+  },
+  "keywords": [
+    "aws-s3uploader"
+  ],
+  "author": "sakshi shinde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sakshi902754252/aws-s3uploader/issues"
+  },
+  "homepage": "https://github.com/Sakshi902754252/aws-s3uploader#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1641.0",
+    "axios": "^1.7.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "jest": "^29.7.0"
+  }
+}
