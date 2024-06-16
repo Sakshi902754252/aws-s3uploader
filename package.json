@@ -1,7 +1,7 @@
 {
-  "name": "aws-s3uploader",
+  "name": "s3-upload-tool",
   "version": "1.0.0",
-  "description": "",
+  "description": " A powerful and easy-to-use Node.js package designed to simplify the process of uploading files to AWS S3.",
   "main": "src/index.js",
   "scripts": {
     "test": "jest"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Sakshi902754252/aws-s3uploader.git"
   },
   "keywords": [
-    "aws-s3uploader"
+    "s3-upload-tool"
   ],
   "author": "sakshi shinde",
   "license": "ISC",
