@@ -11,7 +11,12 @@
     "url": "git+https://github.com/Sakshi902754252/aws-s3uploader.git"
   },
   "keywords": [
-    "s3-upload-tool"
+    "s3-upload-tool",
+    "s3",
+    "upload",
+    "aws",
+    "file",
+    "cloud"
   ],
   "author": "sakshi shinde",
   "license": "ISC",
